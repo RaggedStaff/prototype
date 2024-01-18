@@ -11,6 +11,13 @@ module.exports = {
       "version":"1.6",
       "supporWrite":"true"
     }, {
+      "name": "Big Barn Staging",
+      "slug": "bb-dfc",
+      "url": "https://fdc.bigbarn.co.uk/api/enterprise",
+      "urlExportSuppliedProduct":"https://fdc.bigbarn.co.uk/api/Product",
+      "version":"1.8",
+      "supporWrite":"true"
+    }, {
       "name": "OFN FR Staging",
       "slug": "ofn-fr",
       "url": "https://staging.coopcircuits.fr/api/dfc/enterprises/default/catalog_items.json",
